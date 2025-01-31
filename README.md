@@ -5,4 +5,4 @@
 
 Based on the [Minetest project](https://github.com/minetest) by Celeron55.
 
-Copyright (C) 2025-2030 XREALM
+Copyright (C) 2025-2030 XRealm Studios
