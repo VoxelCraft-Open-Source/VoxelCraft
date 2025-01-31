@@ -1,20 +1,16 @@
-License of VoxelCraft textures and sounds
------------------------------------------
+• License of VoxelCraft — This applies only to textures and sounds contained in the main VoxelCraft distribution.
 
-This applies to textures and sounds contained in the main VoxelCraft
-distribution.
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) http://creativecommons.org/licenses/by-sa/3.0/
 
-Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
-http://creativecommons.org/licenses/by-sa/3.0/
-
-Textures by Zughy & VoxelCraft Studios are under CC BY-SA 4.0
+Textures by VoxelCraft Studios are licensed under CC BY-SA 4.0 
 https://creativecommons.org/licenses/by-sa/4.0/
 
-Authors of media files
------------------------
+------------------------------------------
+
+• Authors of media files
 
 Everything not listed in here:
-Copyright (C) 2010-2012 celeron55, Perttu Ahola <celeron55@gmail.com>
+Copyright 2010-2012 celeron55, Perttu Ahola <celeron55@gmail.com>
 
 VoxelCraft Studios:
   textures/base/pack/gui/*.png
@@ -55,32 +51,24 @@ VoxelCraft Studios:
   textures/base/pack/trash.png
   textures/base/pack/trash_pressed.png
 
-ShadowNinja:
-  textures/base/pack/smoke_puff.png
-
 erlehmann:
   misc/minetest-icon-24x24.png
   misc/minetest-icon.ico
   misc/minetest.svg
 
-srifqi
-  textures/base/pack/chat_hide_btn.png
-  textures/base/pack/chat_show_btn.png
+------------------------------------------
 
-Zughy:
-  textures/base/pack/cdb_add.png
-  textures/base/pack/cdb_clear.png
-  textures/base/pack/cdb_downloading.png
-  textures/base/pack/cdb_queued.png
-  textures/base/pack/cdb_update.png
-  textures/base/pack/cdb_viewonline.png
+• FONTS
 
-KevDoy, An0n3m0us:
-  textures/base/pack/heart.png
-  textures/base/pack/heart_gone.png
+Copyright 2025-2030 VoxelCraft Studios.
 
-License of Minetest source code
--------------------------------
+Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+https://creativecommons.org/licenses/by-nc-nd/4.0/
+
+------------------------------------------
+
+• License of Minetest source code
 
 Minetest
 Copyright (C) 2010-2018 celeron55, Perttu Ahola <celeron55@gmail.com>
@@ -99,10 +87,9 @@ You should have received a copy of the GNU Lesser General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
-------------------------------------------
 
-Irrlicht
---------
+
+• Irrlicht
 
 This program uses the Irrlicht Engine. http://irrlicht.sourceforge.net/
 
@@ -128,8 +115,8 @@ it freely, subject to the following restrictions:
       distribution.
 
 
-JThread
----------------
+
+• JThread
 
 This program uses the JThread library. License for JThread follows:
 
@@ -153,8 +140,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
 
-Lua
----------------
+
+
+• Lua
 
 Lua is licensed under the terms of the MIT license reproduced below.
 This means that Lua is free software and can be used for both academic
@@ -182,8 +170,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-luautf8
----------------
+
+
+• luautf8
+
 Copyright (c) 2018 Xavier Wang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -225,13 +215,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
-
-------------------------------------------
-
-** VoxelCraft Font **
-
-Copyright 2025-2030 VoxelCraft Studios.
-
-Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-
-https://creativecommons.org/licenses/by-nc-nd/4.0/
