@@ -68,7 +68,7 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ------------------------------------------
 
-• License of Minetest source code
+— License of Minetest source code
 
 Minetest
 Copyright (C) 2010-2018 celeron55, Perttu Ahola <celeron55@gmail.com>
@@ -89,7 +89,7 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 
 
 
-• Irrlicht
+— Irrlicht
 
 This program uses the Irrlicht Engine. http://irrlicht.sourceforge.net/
 
@@ -116,7 +116,7 @@ it freely, subject to the following restrictions:
 
 
 
-• JThread
+— JThread
 
 This program uses the JThread library. License for JThread follows:
 
@@ -142,7 +142,7 @@ IN THE SOFTWARE.
 
 
 
-• Lua
+— Lua
 
 Lua is licensed under the terms of the MIT license reproduced below.
 This means that Lua is free software and can be used for both academic
@@ -172,7 +172,7 @@ THE SOFTWARE.
 
 
 
-• luautf8
+— luautf8
 
 Copyright (c) 2018 Xavier Wang
 
@@ -194,8 +194,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-luachacha
-=======
+
+
+— luachacha
+
 Copyright (C) 2015 - 2016 by Pierre Chapuis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
