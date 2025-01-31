@@ -9,8 +9,8 @@ https://creativecommons.org/licenses/by-sa/4.0/
 
 • AUTHORS OF MEDIA FILES:
 
-Everything not listed in here:
-Copyright 2010-2012 celeron55, Perttu Ahola <celeron55@gmail.com>
+For everything not listed here:
+Copyright 2010-2025 celeron55, Perttu Ahola <celeron55@gmail.com>
 
 VoxelCraft Studios:
   textures/base/pack/gui/*.png
@@ -63,10 +63,11 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ------------------------------------------
 
-— License of Minetest source code
+
+—— LICENSE: Minetest source code ——
 
 Minetest
-Copyright (C) 2010-2018 celeron55, Perttu Ahola <celeron55@gmail.com>
+Copyright (C) 2010-2025 celeron55, Perttu Ahola <celeron55@gmail.com>
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
@@ -83,14 +84,13 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
 
 
+—— LICENSE: Irrlicht engine ——
 
-— Irrlicht
+Copyright (C) 2002-2025 Nikolaus Gebhardt
 
 This program uses the Irrlicht Engine. http://irrlicht.sourceforge.net/
 
  The Irrlicht Engine License
-
-Copyright © 2002-2005 Nikolaus Gebhardt
 
 This software is provided 'as-is', without any express or implied
 warranty. In no event will the authors be held liable for any damages
@@ -110,12 +110,9 @@ it freely, subject to the following restrictions:
       distribution.
 
 
+—— LICENSE: JThread library ——
 
-— JThread
-
-This program uses the JThread library. License for JThread follows:
-
-Copyright (c) 2000-2006  Jori Liesenborgs (jori.liesenborgs@gmail.com)
+Copyright (C) 2000-2025 Jori Liesenborgs (jori.liesenborgs@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a
 copy of this software and associated documentation files (the "Software"),
@@ -136,8 +133,7 @@ FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
 
 
-
-— Lua
+—— LICENSE: Lua software ——
 
 Lua is licensed under the terms of the MIT license reproduced below.
 This means that Lua is free software and can be used for both academic
@@ -166,10 +162,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+—— LICENSE: luautf8 software ——
 
-— luautf8
-
-Copyright (c) 2018 Xavier Wang
+Copyright (C) 2018-2025 Xavier Wang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -190,10 +185,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+—— LICENSE: luachacha software ——
 
-— luachacha
-
-Copyright (C) 2015 - 2016 by Pierre Chapuis
+Copyright (C) 2015-2025 Pierre Chapuis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
