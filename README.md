@@ -6,4 +6,4 @@
 Based on the [Minetest project](https://github.com/minetest).
 
 Copyright (C) 2025-2030 XREALM
-Copyright (C) 2025-2030 VoxelCraft Team
+Copyright (C) 2025-2030 VoxelCraft Studios
