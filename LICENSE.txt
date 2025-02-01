@@ -1,7 +1,7 @@
 • License of VoxelCraft — This applies only to textures and sounds contained in the VoxelCraft engine. licensed under CC BY-SA 4.0 
 https://creativecommons.org/licenses/by-sa/4.0/
 
-Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) http://creativecommons.org/licenses/by-sa/3.0/)
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) http://creativecommons.org/licenses/by-sa/3.0/
 
 ------------------------------------------
 
@@ -51,7 +51,7 @@ Copyright 2010-2025 celeron55, Perttu Ahola <celeroinventory_btn.pn>
 
 ------------------------------------------
 
-• FONTS
+• UTILIZED FONTS
 
 Copyright 2025-2030 XRealm Studios.
 
@@ -160,7 +160,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
-—— LICENSE: luautf8 software ——
+—— LICENSE: Luautf8 software ——
 
 Copyright (C) 2018-2025 Xavier Wang
 
@@ -183,7 +183,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-—— LICENSE: luachacha software ——
+—— LICENSE: Luachacha software ——
 
 Copyright (C) 2015-2025 Pierre Chapuis
 
