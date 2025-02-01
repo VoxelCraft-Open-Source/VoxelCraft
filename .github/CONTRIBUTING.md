@@ -1,13 +1,10 @@
-Contributing
-=
-
 - [Contributing code](#code)
 - [Reporting issues](#issues)
 - [Requesting features](#requests)
 - [Translating](#translations)
 - [Donating](#donations)
 
-Code
+Contributing Code
 ==
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the repository and [clone](https://help.github.com/articles/cloning-a-repository/) your fork.
