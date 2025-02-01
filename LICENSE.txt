@@ -1,4 +1,4 @@
-• License of VoxelCraft: CC BY-SA 4.0
+• License of VoxelCraft : CC BY-SA 4.0
 https://creativecommons.org/licenses/by-sa/4.0
 
 This applies only to textures and sounds contained in the main VoxelCraft distribution.
@@ -46,20 +46,21 @@ XRealm Studios
   textures/base/pack/trash.png
   textures/base/pack/trash_pressed.png
 
-Everything else:
+Everything else not listed:
 Copyright 2010-2025 celeron55, Perttu Ahola <celeron55@gmail.com>
 
 ------------------------------------------
 
 • UTILIZED FONTS
 
-Copyright 2025-2030 XRealm Studios.
+Copyright 2025-2030 XRealm Studios
 
 Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
 
 https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ------------------------------------------
+
 
 
 —— LICENSE: Minetest source code ——
@@ -80,6 +81,7 @@ GNU Lesser General Public License for more details.
 You should have received a copy of the GNU Lesser General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+
 
 
 —— LICENSE: Irrlicht engine ——
@@ -108,6 +110,7 @@ it freely, subject to the following restrictions:
       distribution.
 
 
+
 —— LICENSE: JThread library ——
 
 Copyright (C) 2000-2025 Jori Liesenborgs (jori.liesenborgs@gmail.com)
@@ -129,6 +132,7 @@ THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
 IN THE SOFTWARE.
+
 
 
 —— LICENSE: Lua software ——
@@ -160,6 +164,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
 
+
 —— LICENSE: Luautf8 software ——
 
 Copyright (C) 2018-2025 Xavier Wang
@@ -181,6 +186,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
 
 
 —— LICENSE: Luachacha software ——
