@@ -46,7 +46,7 @@ XRealm Studios:
   textures/base/pack/trash.png
   textures/base/pack/trash_pressed.png
 
-For everything not listed there:
+For everything not listed above:
 Copyright 2010-2025 celeron55, Perttu Ahola <celeroinventory_btn.pn>
 
 ------------------------------------------
