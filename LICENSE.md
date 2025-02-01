@@ -97,7 +97,7 @@ This program uses the [Irrlicht Engine.](http://irrlicht.sourceforge.net)
 
 
 
-**—— LICENSE: JThread library** ——
+**—— LICENSE: JThread library**
 Copyright (C) 2000-2025 Jori Liesenborgs (jori.liesenborgs@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a
