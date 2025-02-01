@@ -58,7 +58,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International [CC BY-NC-ND 4.0](http
 
 ------------------------------------------
 
-License of Minetest source code
+Minetest
 =
 
 Minetest
