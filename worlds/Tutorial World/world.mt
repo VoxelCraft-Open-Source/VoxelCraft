@@ -1,1 +1,9 @@
-hello
+enable_damage = false
+mod_storage_backend = sqlite3
+auth_backend = sqlite3
+player_backend = sqlite3
+backend = sqlite3
+gameid = voxelcraft
+creative_mode = false
+world_name = world4
+server_announce = false
