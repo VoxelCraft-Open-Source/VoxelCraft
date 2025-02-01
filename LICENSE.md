@@ -5,7 +5,7 @@ This applies only to textures and sounds contained in the main VoxelCraft distri
 
 ------------------------------------------
 
-• AUTHORS OF MEDIA
+# AUTHORS - MEDIA
 
 XRealm Studios
   textures/base/pack/gui/*.png
@@ -46,12 +46,12 @@ XRealm Studios
   textures/base/pack/trash.png
   textures/base/pack/trash_pressed.png
 
-Everything else not listed:
+_Everything else not listed:_
 Copyright 2010-2025 celeron55, Perttu Ahola <celeron55@gmail.com>
 
 ------------------------------------------
 
-• UTILIZED FONTS
+# AUTHORS - FONTS
 
 Copyright 2025-2030 XRealm Studios
 
@@ -61,11 +61,10 @@ https://creativecommons.org/licenses/by-nc-nd/4.0/
 
 ------------------------------------------
 
+# LICENSES
 
-
-—— LICENSE: Minetest source code ——
-
-Minetest
+—— LICENSE: **Minetest source code** ——
+Minetest Engine
 Copyright (C) 2010-2025 celeron55, Perttu Ahola <celeron55@gmail.com>
 
 This program is free software; you can redistribute it and/or modify
@@ -84,10 +83,8 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 
 
 
-—— LICENSE: Irrlicht engine ——
-
+—— LICENSE: **Irrlicht engine** ——
 Copyright (C) 2002-2025 Nikolaus Gebhardt
-
 This program uses the Irrlicht Engine. http://irrlicht.sourceforge.net/
 
  The Irrlicht Engine License
@@ -111,8 +108,7 @@ it freely, subject to the following restrictions:
 
 
 
-—— LICENSE: JThread library ——
-
+—— LICENSE: **JThread library** ——
 Copyright (C) 2000-2025 Jori Liesenborgs (jori.liesenborgs@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a
@@ -135,15 +131,13 @@ IN THE SOFTWARE.
 
 
 
-—— LICENSE: Lua software ——
+—— LICENSE: **Lua software** ——
+Copyright (C) 1994-2008 Lua.org, PUC-Rio.
+For details and rationale, see https://www.lua.org/license.html
 
 Lua is licensed under the terms of the MIT license reproduced below.
 This means that Lua is free software and can be used for both academic
 and commercial purposes at absolutely no cost.
-
-For details and rationale, see https://www.lua.org/license.html .
-
-Copyright (C) 1994-2008 Lua.org, PUC-Rio.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -165,8 +159,7 @@ THE SOFTWARE.
 
 
 
-—— LICENSE: Luautf8 software ——
-
+—— LICENSE: **Luautf8 software** ——
 Copyright (C) 2018-2025 Xavier Wang
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -189,8 +182,7 @@ SOFTWARE.
 
 
 
-—— LICENSE: Luachacha software ——
-
+—— LICENSE: **Luachacha software** ——
 Copyright (C) 2015-2025 Pierre Chapuis
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
