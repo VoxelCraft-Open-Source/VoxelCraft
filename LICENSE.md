@@ -1,6 +1,6 @@
 License of VoxelCraft • [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
-This applies only to textures and sounds contained in the main VoxelCraft distribution.
+This applies only to textures and sounds contained within the main VoxelCraft distribution.
 
 ------------------------------------------
 
