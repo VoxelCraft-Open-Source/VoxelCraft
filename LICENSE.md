@@ -60,7 +60,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International [CC BY-NC-ND 4.0](http
 
 # LICENSES
 
-—— LICENSE: **Minetest source code**
+**—— LICENSE: Minetest source code**
 Copyright (C) 2010-2025 [Celeron55](https://www.c55.me/), Perttu Ahola.
 
 *This program is free software; you can redistribute it and/or modify
@@ -79,7 +79,7 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 
 
 
-—— LICENSE: **Irrlicht engine**
+**—— LICENSE: Irrlicht engine**
 Copyright (C) 2002-2025 Nikolaus Gebhardt
 This program uses the [Irrlicht Engine.](http://irrlicht.sourceforge.net)
 
@@ -97,7 +97,7 @@ This program uses the [Irrlicht Engine.](http://irrlicht.sourceforge.net)
 
 
 
-—— LICENSE: **JThread library** ——
+**—— LICENSE: JThread library** ——
 Copyright (C) 2000-2025 Jori Liesenborgs (jori.liesenborgs@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a
