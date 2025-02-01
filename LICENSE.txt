@@ -1,13 +1,13 @@
 • License of VoxelCraft — This applies only to textures and sounds contained in the VoxelCraft engine. licensed under CC BY-SA 4.0 
 https://creativecommons.org/licenses/by-sa/4.0/
 
-Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) http://creativecommons.org/licenses/by-sa/3.0/
+Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) http://creativecommons.org/licenses/by-sa/3.0/)
 
 ------------------------------------------
 
-• AUTHORS OF MEDIA FILES:
+• AUTHORS OF MEDIA:
 
-XRealm Studios:
+XRealm Studios
   textures/base/pack/gui/*.png
   textures/base/pack/attention.png
   textures/base/pack/aux_btn.png
@@ -46,7 +46,7 @@ XRealm Studios:
   textures/base/pack/trash.png
   textures/base/pack/trash_pressed.png
 
-For everything not listed above:
+Everything else:
 Copyright 2010-2025 celeron55, Perttu Ahola <celeroinventory_btn.pn>
 
 ------------------------------------------
