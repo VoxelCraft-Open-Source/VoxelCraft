@@ -9,7 +9,7 @@ Contributing Code
 
 1. [Fork](https://help.github.com/articles/fork-a-repo/) the repository and [clone](https://help.github.com/articles/cloning-a-repository/) your fork.
 
-2. Before you start coding, consider opening an [issue at Github](https://github.com/voxelcraft/voxelcraft/issues) to discuss the suitability and implementation of your intended contribution with the core developers. If you are planning to start some very significant coding, you would benefit from first discussing on our IRC development channel [#minetest-dev](http://www.minetest.net/irc/). Note that a proper IRC client is required to speak on this channel.
+2. Before you start coding, consider opening an [issue at Github](https://github.com/voxelcraft-open-source/voxelcraft/issues) to discuss the suitability and implementation of your intended contribution with the core developers. If you are planning to start some very significant coding, you would benefit from first discussing on our IRC development channel [#minetest-dev](http://www.minetest.net/irc/). Note that a proper IRC client is required to speak on this channel.
 
 3. Start coding!
     - Refer to the [Lua API](https://github.com/minetest/minetest/blob/master/doc/lua_api.txt), [Developer Wiki](http://dev.minetest.net/Main_Page) and other [documentation](https://github.com/minetest/minetest/tree/master/doc).
