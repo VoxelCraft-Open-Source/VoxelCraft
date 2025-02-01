@@ -46,8 +46,7 @@ XRealm Studios
   textures/base/pack/trash_pressed.png
 
 _Everything else not listed:_
-
-Copyright 2010-2025 celeron55, [Perttu Ahola](<https://google.gmail.com/celeron55@gmail.com>)
+Copyright 2010-2025 celeron55, [Perttu Ahola](<https://www.c55.me/>)
 
 ------------------------------------------
 
@@ -63,7 +62,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International [CC BY-NC-ND 4.0](http
 
 —— LICENSE: **Minetest source code**
 Minetest
-Copyright (C) 2010-2025 Celeron55, [Perttu Ahola](<celeron55@gmail.com>)
+Copyright (C) 2010-2025 [Celeron55](https://www.c55.me/), Perttu Ahola
 
 *This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
