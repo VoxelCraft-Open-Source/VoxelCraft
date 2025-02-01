@@ -4,7 +4,7 @@ This applies only to textures and sounds contained within the main VoxelCraft di
 
 ------------------------------------------
 
-# AUTHORS: MEDIA
+# • MEDIA
 
 **XRealm Studios:**
 textures/base/pack/*.png
@@ -14,7 +14,7 @@ Copyright 2010-2025 [Celeron55](https://www.c55.me/) Perttu Ahola.
 
 ------------------------------------------
 
-# FONTS
+# • FONTS
 
 Copyright 2025-2030 XRealm Studios
 
