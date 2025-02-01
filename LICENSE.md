@@ -4,7 +4,7 @@ This applies only to textures and sounds contained within the main VoxelCraft di
 
 ------------------------------------------
 
-# AUTHORS: MEDIA
+# AUTHORS > MEDIA
 
 XRealm Studios
   textures/base/pack/gui.png
@@ -18,7 +18,7 @@ XRealm Studios
   textures/base/pack/clear.png
   textures/base/pack/cursor.png
   textures/base/pack/end_icon.png
-  textures/base/pack/error_screenshot.png
+  textures/base/pack/error.png
   textures/base/pack/desc_bg.png
   textures/base/pack/down_btn.png
   textures/base/pack/drop_btn.png
@@ -30,7 +30,7 @@ XRealm Studios
   textures/base/pack/logo.png
   textures/base/pack/minimap_btn.png
   textures/base/pack/minimap_mask_+.png
-  textures/base/pack/minimap_overlay_+.png
+  textures/base/pack/map_overlay_+.png
   textures/base/pack/next_icon.png
   textures/base/pack/player_marker.png
   textures/base/pack/prev_icon.png
@@ -46,11 +46,11 @@ XRealm Studios
   textures/base/pack/trash_pressed.png
 
 _Everything else not listed:_
-Copyright 2010-2025 celeron55, [Perttu Ahola](<https://gmail.com/celeron55@gmail.com>)
+Copyright 2010-2025 celeron55, [Perttu Ahola](<https://google.gmail.com/celeron55@gmail.com>)
 
 ------------------------------------------
 
-# AUTHORS: FONTS
+# AUTHORS > FONTS
 
 Copyright 2025-2030 XRealm Studios
 
