@@ -5,7 +5,7 @@ Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) http://creativecommons.org/li
 
 ------------------------------------------
 
-• AUTHORS OF MEDIA:
+• AUTHORS OF MEDIA
 
 XRealm Studios
   textures/base/pack/gui/*.png
