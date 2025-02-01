@@ -1,5 +1,4 @@
-• License of VoxelCraft : CC BY-SA 4.0
-https://creativecommons.org/licenses/by-sa/4.0
+• License of VoxelCraft [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0)
 
 This applies only to textures and sounds contained in the main VoxelCraft distribution.
 
@@ -27,7 +26,7 @@ XRealm Studios
   textures/base/pack/inventory_btn.png
   textures/base/pack/joystick_*.png
   textures/base/pack/jump_btn.png
-  textures/base/pack/loading_screenshot.png
+  textures/base/pack/loading.png
   textures/base/pack/logo.png
   textures/base/pack/minimap_btn.png
   textures/base/pack/minimap_mask_*.png
@@ -47,7 +46,7 @@ XRealm Studios
   textures/base/pack/trash_pressed.png
 
 _Everything else not listed:_
-Copyright 2010-2025 celeron55, Perttu Ahola <celeron55@gmail.com>
+Copyright 2010-2025 celeron55, [Perttu Ahola](<celeron55@gmail.com>)
 
 ------------------------------------------
 
@@ -55,49 +54,47 @@ Copyright 2010-2025 celeron55, Perttu Ahola <celeron55@gmail.com>
 
 Copyright 2025-2030 XRealm Studios
 
-Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
-
-https://creativecommons.org/licenses/by-nc-nd/4.0/
+Attribution-NonCommercial-NoDerivatives 4.0 International [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ------------------------------------------
 
 # LICENSES
 
-—— LICENSE: **Minetest source code** ——
-Minetest Engine
-Copyright (C) 2010-2025 celeron55, Perttu Ahola <celeron55@gmail.com>
+—— LICENSE: **Minetest source code**
+Minetest
+Copyright (C) 2010-2025 Celeron55, [Perttu Ahola](<celeron55@gmail.com>)
 
-This program is free software; you can redistribute it and/or modify
+*This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
 the Free Software Foundation; either version 3.0 of the License, or
-(at your option) any later version.
+(at your option) any later version.*
 
-This program is distributed in the hope that it will be useful,
+*This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU Lesser General Public License for more details.
+GNU Lesser General Public License for more details.*
 
-You should have received a copy of the GNU Lesser General Public License along
+*You should have received a copy of the GNU Lesser General Public License along
 with this program; if not, write to the Free Software Foundation, Inc.,
-51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.
+51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.*
 
 
 
-—— LICENSE: **Irrlicht engine** ——
+—— LICENSE: **Irrlicht engine**
 Copyright (C) 2002-2025 Nikolaus Gebhardt
-This program uses the Irrlicht Engine. http://irrlicht.sourceforge.net/
+This program uses the [Irrlicht Engine.](http://irrlicht.sourceforge.net)
 
- The Irrlicht Engine License
+ *The Irrlicht Engine License*
 
-This software is provided 'as-is', without any express or implied
+*This software is provided 'as-is', without any express or implied
 warranty. In no event will the authors be held liable for any damages
-arising from the use of this software.
+arising from the use of this software.*
 
-Permission is granted to anyone to use this software for any purpose,
+*Permission is granted to anyone to use this software for any purpose,
 including commercial applications, and to alter it and redistribute
-it freely, subject to the following restrictions:
+it freely, subject to the following restrictions:*
 
-   1. The origin of this software must not be misrepresented; you
+*   1. The origin of this software must not be misrepresented; you
       must not claim that you wrote the original software. If you use
 	  this software in a product, an acknowledgment in the product
 	  documentation would be appreciated but is not required.
