@@ -45,8 +45,8 @@ XRealm Studios
   textures/base/pack/trash.png
   textures/base/pack/trash_pressed.png
 
-_Everything else not listed:_
-Copyright 2010-2025 celeron55, [Perttu Ahola](<https://www.c55.me/>)
+**Everything else not listed:**
+Copyright 2010-2025 [Celeron55](https://www.c55.me/) Perttu Ahola.
 
 ------------------------------------------
 
@@ -61,8 +61,7 @@ Attribution-NonCommercial-NoDerivatives 4.0 International [CC BY-NC-ND 4.0](http
 # LICENSES
 
 —— LICENSE: **Minetest source code**
-Minetest
-Copyright (C) 2010-2025 [Celeron55](https://www.c55.me/), Perttu Ahola
+Copyright (C) 2010-2025 [Celeron55](https://www.c55.me/), Perttu Ahola.
 
 *This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as published by
@@ -84,24 +83,17 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 Copyright (C) 2002-2025 Nikolaus Gebhardt
 This program uses the [Irrlicht Engine.](http://irrlicht.sourceforge.net)
 
- *The Irrlicht Engine License*
+*The Irrlicht Engine License*
 
-*This software is provided 'as-is', without any express or implied
-warranty. In no event will the authors be held liable for any damages
-arising from the use of this software.*
+*This software is provided 'as-is', without any express or implied warranty. In no event will the authors be held liable for any damages arising from the use of this software.*
 
-*Permission is granted to anyone to use this software for any purpose,
-including commercial applications, and to alter it and redistribute
-it freely, subject to the following restrictions:*
+*Permission is granted to anyone to use this software for any purpose, including commercial applications, and to alter it and redistribute it freely, subject to the following restrictions:*
 
-*   1. The origin of this software must not be misrepresented; you
-      must not claim that you wrote the original software. If you use
-	  this software in a product, an acknowledgment in the product
-	  documentation would be appreciated but is not required.
-   2. Altered source versions must be plainly marked as such, and must
-      not be misrepresented as being the original software.
-   3. This notice may not be removed or altered from any source
-      distribution.
+*1. The origin of this software must not be misrepresented; you must not claim that you wrote the original software. If you use this software in a product, an acknowledgment in the product documentation would be appreciated but is not required.*
+
+*2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.*
+
+*3. This notice may not be removed or altered from any source distribution.*
 
 
 
