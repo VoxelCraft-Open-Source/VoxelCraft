@@ -77,11 +77,10 @@ GNU Lesser General Public License for more details.*
 with this program; if not, write to the Free Software Foundation, Inc.,
 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301 USA.*
 
-
-
 **—— LICENSE: Irrlicht engine**
 Copyright (C) 2002-2025 Nikolaus Gebhardt
-This program uses the [Irrlicht Engine.](http://irrlicht.sourceforge.net)
+
+*This program uses the [Irrlicht Engine.](http://irrlicht.sourceforge.net)*
 
 *The Irrlicht Engine License*
 
@@ -94,8 +93,6 @@ This program uses the [Irrlicht Engine.](http://irrlicht.sourceforge.net)
 *2. Altered source versions must be plainly marked as such, and must not be misrepresented as being the original software.*
 
 *3. This notice may not be removed or altered from any source distribution.*
-
-
 
 **—— LICENSE: JThread library**
 Copyright (C) 2000-2025 Jori Liesenborgs (jori.liesenborgs@gmail.com)
