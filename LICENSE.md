@@ -4,7 +4,7 @@ This applies only to textures and sounds contained within the main VoxelCraft di
 
 ------------------------------------------
 
-# AUTHORS > MEDIA
+# AUTHORS: MEDIA
 
 XRealm Studios
   textures/base/pack/gui.png
@@ -46,11 +46,12 @@ XRealm Studios
   textures/base/pack/trash_pressed.png
 
 _Everything else not listed:_
+
 Copyright 2010-2025 celeron55, [Perttu Ahola](<https://google.gmail.com/celeron55@gmail.com>)
 
 ------------------------------------------
 
-# AUTHORS > FONTS
+# FONTS
 
 Copyright 2025-2030 XRealm Studios
 
